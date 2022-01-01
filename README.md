@@ -1,7 +1,7 @@
 # numerai
 
 Training examples using:
-  1. LassoIC
+  1. LassoLarsIC
   2. XGBRanker in eraboost way
   3. Tensorflow Densenet in eraboost way
  
